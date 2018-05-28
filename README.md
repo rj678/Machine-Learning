@@ -5,6 +5,13 @@ This repo has been set up to understand and use Machine Learning algorithms for 
 
 ## TensorFlow:
 
+### Classification
+
+The folder 'Iris' contains the workflow to train a Neural Network based on the TensorFlow tutorial for the Iris flower classification problem. It also contains a workflow to train an SVM for classification.
+
+Similar workflows will be used for crop classification based on the spectral signals.
+
+
 ### Hyperparameter tuning:
 
 This folder has been set up to better understand the Machine Learning hyperparameter tuning process.
