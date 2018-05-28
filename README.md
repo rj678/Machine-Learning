@@ -23,4 +23,4 @@ Support Vector Classifiers
 
 ## References
 
-Zadeh, Reza, Ramsundar, Bharath, 2018, TensorFlow for Deep Learning. O'Reilly Media
+Zadeh, Reza and Ramsundar, Bharath, 2018, TensorFlow for Deep Learning. O'Reilly Media
