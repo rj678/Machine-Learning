@@ -1,9 +1,8 @@
 # Machine-Learning
 
-This repo has been set up to understand and use Machine Learning algorithms for various classification and regression tasks. Each task has been set up in a different folder.
+This repo has been set up to understand and use Machine Learning algorithms for various classification and regression tasks. Each task has been set up in a different folder. The workflows use TensorFlow and scikit-learn.
 
 
-## TensorFlow:
 
 ### Classification
 
