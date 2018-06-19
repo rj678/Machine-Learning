@@ -7,7 +7,7 @@ This repo has been set up to understand and use Machine Learning algorithms for 
 
 #### NLP:
 
-#### Personalized Medicine: EDA, TD-IDF
+#### Personalized Medicine: EDA, TF-IDF
 
 https://www.kaggle.com/unbiasedmodeler/kernels
 
